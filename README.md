@@ -1,7 +1,6 @@
 
-#  **<span style="color:green">Landmark Technologies, Ontario, Canada.</span>**
-### **<span style="color:green">Contacts: +1437 215 2483<br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com**
+#  **<span style="color:green">TERRAFORM</span>**
+
 
 
 
@@ -43,7 +42,7 @@ export PATH=$PATH:/usr/local/bin
 ```
 #### Clone terraform scripts
 ``` sh
-$ git clone https://github.com/LandmakTechnology/terraform-eks
+$ git clone https://github.com/elisemomo/terraform-eks
 $ cd Terraform_Scripts
 ```
 #### <span style="color:orange">Update Your Key Name in variables.tf file before executing terraform script.</span>
